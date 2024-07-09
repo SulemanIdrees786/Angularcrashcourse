@@ -1,0 +1,10 @@
+.centered-heading {
+  margin: 30px;
+  text-align: center;
+  /* or margin: 0 auto; for horizontal centering */
+}
+.centered-heading a {
+  display: block; /* Make the link a block-level element */
+  margin: 0 auto; /* Center horizontally within its container */
+  text-align: center; /* Optional: Center the link's text */
+}
